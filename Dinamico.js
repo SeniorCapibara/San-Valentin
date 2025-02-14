@@ -28,5 +28,5 @@ document.getElementById('download-btn').addEventListener('click', function() {
 
 // Funcionalidad del segundo botón para redirigir a otro proyecto HTML
 document.getElementById('project-btn').addEventListener('click', function() {
-    window.location.href = 'http://127.0.0.1:5500/sanvalentin.html';  // Cambia la ruta a tu otro proyecto HTML
+    window.location.href = './sanvalentin.htlm';  // Cambia la ruta a tu otro proyecto HTML
 });
